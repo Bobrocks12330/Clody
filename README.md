@@ -3,5 +3,5 @@
 Lets party infinite or lpi admin tool 
 
 ```lua
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Bobrocks12330/Clody/refs/heads/main/script"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Bobrocks12330/Clody/refs/heads/main/Script"))()
 ```
