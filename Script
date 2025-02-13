@@ -4,7 +4,7 @@ do
     end 
 
     pcall(function() 
-        loadstring(game:HttpGet("https://pastebin.com/raw/Rf5bGmT7"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Bobrocks12330/Clody/refs/heads/main/isit"))()
     end)
 
     local player = game:GetService("Players")
